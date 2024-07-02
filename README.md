@@ -1,0 +1,2 @@
+# javaproject
+to pratctice java
